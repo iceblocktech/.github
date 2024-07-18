@@ -1,4 +1,4 @@
-# Ice Block Tech
+# Billing is hard. We make it easy.
 
 Ice Block Tech is a small consulting shop that loves helping startups solve billing problems. Through design, development and data engineering, we help you scale your billing so you can build products.
 
