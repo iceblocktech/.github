@@ -5,4 +5,4 @@ Ice Block Tech is a small consulting shop that loves helping startups solve bill
 If you are interested in working with us, [please use our contact form](https://iceblock.tech/contact/) and we'll be in touch.
 
 
-We are also kicking the tires on a new billing system that lets you own your data. Check out [Venn](https://github.com/sponsors/venn-billing)
+We are also kicking the tires on a new billing system that lets you own your data. Check out [Venn](https://github.com/sponsors/vennbilling)
